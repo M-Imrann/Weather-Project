@@ -1,0 +1,4 @@
+time,temperature_2m_max,temperature_2m_min,temperature_2m_mean,wind_speed_10m_max,wind_speed_10m_min,wind_speed_10m_mean
+2025-07-19,35.2,26.5,30.6,8.1,0.5,3.8
+2025-07-20,35.1,28.4,31.1,11.8,3.6,7.3
+2025-07-21,32.9,26.4,28.4,14.2,4.9,9.6
